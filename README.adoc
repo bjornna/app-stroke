@@ -19,6 +19,9 @@ Brukermanual::
 https://stolav.no/Medisinskekvalitetsregistre/Norsk-hjerneslagregister/Brukermanual-Norsk-hjerneslagregister-2018.pdf[]
 
 
-=== Scoringer
+== Scoringer
+
+=== NIHSS
 
 * http://nevro.legehandboka.no/imagevault/publishedmedia/lreo2luofqalg36pj037/23199-2-nihss.pdf[NIHSS skjema]
+* https://www.mdcalc.com/nih-stroke-scale-score-nihss#next-steps[NIHSS Calculator]
