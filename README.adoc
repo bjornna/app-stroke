@@ -1,3 +1,24 @@
 = Hjerneslag 
+
 == Hva?
 Samling av referanser og kliniske modeller for oppfølging av hjerneslag pasienten
+
+== Lenker 
+
+=== Hjerneslagregister 
+Akuttskjema::
+https://stolav.no/Medisinskekvalitetsregistre/Norsk-hjerneslagregister/Skjema/Akuttskjema%20Norsk%20hjerneslagregister%202018.pdf[]
+
+Oppfølgingskjema::
+https://stolav.no/Medisinskekvalitetsregistre/Norsk-hjerneslagregister/Skjema/Oppf%C3%B8lgingskjema%20Norsk%20hjerneslagregister%202018.pdf[]
+
+Foølgeskjema (hva man har gjort på sykehus som har utført prosedyrer/trombolyse, som overføres lokalsykehus)::
+https://stolav.no/Medisinskekvalitetsregistre/Norsk-hjerneslagregister/Skjema/F%C3%B8lgeskjema%20Norsk%20hjerneslagregister%202018.pdf[]
+
+Brukermanual::
+https://stolav.no/Medisinskekvalitetsregistre/Norsk-hjerneslagregister/Brukermanual-Norsk-hjerneslagregister-2018.pdf[]
+
+
+=== Scoringer
+
+* http://nevro.legehandboka.no/imagevault/publishedmedia/lreo2luofqalg36pj037/23199-2-nihss.pdf[NIHSS skjema]
